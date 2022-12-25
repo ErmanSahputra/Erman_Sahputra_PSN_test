@@ -1,0 +1,10 @@
+kendala yang di saat menggunakan Angular:
+
+harus mengubah ExecutionPolicy karena tdk bisa menjalankan angular
+
+
+Set-ExecutionPolicy Unrestrict
+
+Set-ExecutionPolicy -Scope
+CurrentUser
+
